@@ -1,0 +1,1 @@
+#https://github.com/liyupi/yupi-hot-monitor/blob/master/skills/hot-monitor/SKILL.md
